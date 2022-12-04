@@ -1,5 +1,5 @@
-                                                      External-Sorting-for-Massive-Data  
-                                      https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
+                                                 External-Sorting-for-Massive-Data  
+                                   https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
 Requirement: Use the "Books_rating.csv" file in this link and sort the id of the books ascendingly. If the id are the same, randomly sort. 
 Store the result output in "sorted_books_ratings.csv".
 
