@@ -146,7 +146,7 @@ void createRun(string inputFile, int size, int numberofFiles)
 	int current = 0;
 
 	int i;
-	while (stillread)
+	while (current < numberofFiles)
 	{
 		for (i = 0; i < size; ++i)
 		{
