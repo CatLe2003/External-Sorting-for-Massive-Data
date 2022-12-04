@@ -1,4 +1,4 @@
-######################################################  External-Sorting-for-Massive-Data  #############################################################################################################################################
+                                                      External-Sorting-for-Massive-Data  
                                       https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
 Requirement: Use the "Books_rating.csv" file in this link and sort the id of the books ascendingly. If the id are the same, randomly sort. 
 Store the result output in "sorted_books_ratings.csv".
@@ -13,5 +13,3 @@ All credits of the ideas are from:
 
 - https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/ExternalSort.html
 - https://www.geeksforgeeks.org/external-sorting/
-
-#####################################################################################################################################################################################################################################
